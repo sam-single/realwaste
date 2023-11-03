@@ -2,7 +2,9 @@
 
 RealWaste is an image dataset assembled from waste material received at the Whyte's Gully Waste and Resource Recovery facility in Wollongong NSW Australia.
 
-If using this dataset, please reference S. Single, S. Iranmanesh, R. Raad, RealWaste, electronic dataset, Wollongong City Council, CC BY-NC-SA 4.0 https://github.com/sam-single/realwaste.
+If using this dataset, please include the following reference: 
+
+S. Single, S. Iranmanesh, R. Raad, RealWaste, electronic dataset, Wollongong City Council, CC BY-NC-SA 4.0 https://github.com/sam-single/realwaste.
 
 Please note, this dataset is licenced under CC BY-NC-SA 4.0.
 
