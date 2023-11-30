@@ -1,6 +1,6 @@
 # RealWaste
 
-RealWaste is an image dataset assembled from waste material received at the Whyte's Gully Waste and Resource Recovery facility in Wollongong NSW Australia.
+RealWaste is an image dataset assembled from waste material received at the Whyte's Gully Waste and Resource Recovery facility in Wollongong NSW Australia. The orginal purpose of this dataset was for evaluating the performance of deep learning for classifying images of authentic waste items in a thesis research project, now published in the journal article [RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning](https://www.mdpi.com/2078-2489/14/12/633).
 
 If using this dataset, please include the following reference: 
 
@@ -20,5 +20,3 @@ The dataset is composed of the following labels and image counts:
   - Vegetation: 436
 
 The above labelling may be further subdivided as required, i.e., Transparent Plastic, Opaque Plastic.
-
-The orginal purpose of this dataset was for evaluating the performance of deep learning for classifying images of authentic waste items in a thesis research project.
